@@ -1,1 +1,1 @@
-The conflict will happen
+A conflict happened fixed
