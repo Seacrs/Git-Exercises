@@ -1,1 +1,1 @@
-A conflict happened fixed
+another conflict happening 
