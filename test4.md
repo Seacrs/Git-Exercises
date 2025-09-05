@@ -1,1 +1,2 @@
-another conflict happening 
+Another conflict happened
+How is it going
