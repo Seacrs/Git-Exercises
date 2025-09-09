@@ -1,5 +1,5 @@
-# Exercise
+# Exercise 2
 ```bash
-const mantis = "RAy"
-console.log(mantis);
+./ add git ignore
+ignore this file now
 ```
